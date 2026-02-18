@@ -1,6 +1,15 @@
-{
-    "id": "1",
-    "title": "From Sebastian",
-    "message": "I love you! Have a wonderful day.",
-    "timestamp": "2024-02-18"
-  }
+[
+    {
+      "id": "1",
+      "title": "A Note For You",
+      "message": "This is the full message that will show when tapped.\n\nYou can write multiple paragraphs.\n\nMake it
+  as long as you want!",
+      "timestamp": "2024-02-18"
+    },
+    {
+      "id": "2",
+      "title": "Another Love Note",
+      "message": "Here's another message for you.\n\nI hope it makes you smile.",
+      "timestamp": "2024-02-17"
+    }
+  ]
