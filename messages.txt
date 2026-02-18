@@ -13,17 +13,11 @@
   title: When Anxiety Visits
   date: 2026-02-18
   ---
-  I know your mind is racing right now, and everything feels overwhelming.
-
-  Take a deep breath with me.
-
-  You are safe, you are loved, and you don't have to figure everything out today.
+  I know your mind is racing right now, and everything feels overwhelming. Take a deep breath with me. You are safe, you are loved, and you don't have to figure everything out today.
   ===
   id: 3
   title: Math Problem
   date: 2026-02-18
   ---
-  You + Me = Best equation ever solved!
-
-  Even my abacus couldn't solve it but that's because I don't know how to use an abacus.
+  You + Me = Best equation ever solved! Even my abacus couldn't solve it but that's because I don't know how to use an abacus.
   ===
