@@ -2,80 +2,104 @@
     {
       "id": "1",
       "title": "To my Cubsy Wubsy",
-      "message": "Hey Cubsy Wubsy, I have made this little special project for you so I can share with you notes of love that you can read over and over and you always have somewhere to go if you need some love or encouragement or just small affirmations of love when you need it. I love you so much <3",
+      "message": "Hey Cubsy Wubsy, I have made this little special project for you so I can share with you notes of love
+   that you can read over and over and you always have somewhere to go if you need some love or encouragement or just
+  small affirmations of love when you need it. I love you so much <3",
       "timestamp": "2026-02-18"
     },
     {
       "id": "2",
       "title": "When Anxiety Visits",
-      "message": "I know your mind is racing right now, and everything feels overwhelming. Take a deep breath with me. You are safe, you are loved, and you don't have to figure everything out today.",
+      "message": "I know your mind is racing right now, and everything feels overwhelming. Take a deep breath with me.
+  You are safe, you are loved, and you don't have to figure everything out today.",
       "timestamp": "2026-02-18"
     },
     {
-        "id": "3",
-        "title": "Math Problem",
-        "message":"You + Me = Best equation ever solved! Even my abacus couldn't solve it but that's because I don't know how to use an abacus.",
-        "timestamp":"2026-02-18"
+      "id": "3",
+      "title": "Math Problem",
+      "message": "You + Me = Best equation ever solved! Even my abacus couldn't solve it but that's because I don't know
+   how to use an abacus.",
+      "timestamp": "2026-02-18"
     },
     {
-        "id": "4",
-        "title": "Documentary",
-        "message":"Here we observe the Cutie in her natural habitat, being absolutely adorable while completely unaware of it. Truly a magnificent specimen. - David Attenborough voice about you, probably.",
-        "timestamp":"2026-02-18"
+      "id": "4",
+      "title": "Documentary",
+      "message": "Here we observe the Cutie in her natural habitat, being absolutely adorable while completely unaware
+  of it. Truly a magnificent specimen. - David Attenborough voice about you, probably.",
+      "timestamp": "2026-02-18"
     },
     {
-        "id": "5",
-        "title": "Safe Harbor",
-        "message":"When the world feels overwhelming, remember that my arms are always your safe harbor. You don't have to be strong all the time - let me hold you through the worst parts. I'm always here for you my love.",
-        "timestamp":"2026-02-18"
+      "id": "5",
+      "title": "Safe Harbor",
+      "message": "When the world feels overwhelming, remember that my arms are always your safe harbor. You don't have
+  to be strong all the time - let me hold you through the worst parts. I'm always here for you my love.",
+      "timestamp": "2026-02-18"
     },
     {
-        "id": "6",
-        "title": "So Proud of You",
-        "message":"I'm so ridiculously proud of you my love - not just for your achievements, but for who you are. Your determination, your heart, your spirit - you inspire me every single day!",
-        "timestamp":"2026-02-18"
+      "id": "6",
+      "title": "So Proud of You",
+      "message": "I'm so ridiculously proud of you my love - not just for your achievements, but for who you are. Your
+  determination, your heart, your spirit - you inspire me every single day!",
+      "timestamp": "2026-02-18"
     },
     {
-        "id": "7",
-        "title": "Growing Old",
-        "message":"Even if I don't want to grow old, you make me want to grow old with you! I can't wait to do it with you - to have wrinkles that map our laughter, gray hair that tells our story, and a love that only gets deeper with time.",
-        "timestamp":"2026-02-18"
+      "id": "7",
+      "title": "Growing Old",
+      "message": "Even if I don't want to grow old, you make me want to grow old with you! I can't wait to do it with
+  you - to have wrinkles that map our laughter, gray hair that tells our story, and a love that only gets deeper with
+  time.",
+      "timestamp": "2026-02-18"
     },
     {
-        "id": "8",
-        "title": "Pocket Love",
-        "message":"Here's a little love note for your pocket: You matter. You're loved. You're important. And somewhere in this world, someone (me!) thinks you're absolutely perfect.",
-        "timestamp":"2026-02-18"
+      "id": "8",
+      "title": "Pocket Love",
+      "message": "Here's a little love note for your pocket: You matter. You're loved. You're important. And somewhere
+  in this world, someone (me!) thinks you're absolutely perfect.",
+      "timestamp": "2026-02-18"
     },
     {
-        "id": "9",
-        "title": "Timeless Moment",
-        "message":"If I could stop time, I'd pause it right here, right now, in this moment of loving you. Every second with you is a treasure I keep locked in my heart's vault.",
-        "timestamp":"2026-02-18"
+      "id": "9",
+      "title": "Timeless Moment",
+      "message": "If I could stop time, I'd pause it right here, right now, in this moment of loving you. Every second
+  with you is a treasure I keep locked in my heart's vault.",
+      "timestamp": "2026-02-18"
     },
     {
-        "id": "10",
-        "title": "Every Day",
-        "message":"Every single day with you feels like a new adventure. Whether we're grocery shopping, watching movies on the couch, or just talking about our dreams, you turn the mundane into something extraordinary. I love how we can laugh together, how we can spend hours watching memes and how you make every day feel extraordinary and how . Thank you for being my daily dose of happiness.",
-        "timestamp":"2026-02-18"
+      "id": "10",
+      "title": "Every Day",
+      "message": "Every single day with you feels like a new adventure. Whether we're grocery shopping, watching movies
+  on the couch, or just talking about our dreams, you turn the mundane into something extraordinary. I love how we can
+  laugh together, how we can spend hours watching memes and how you make every day feel extraordinary. Thank you for
+  being my daily dose of happiness.",
+      "timestamp": "2026-02-18"
     },
     {
-        "id": "11",
-        "title": "Cat Question",
-        "message":"I have a very important question: If we were both cats, do you think we'd still find each other? I like to think we would, and I'll annoy you like Malako annoys Bandit and nap in sunny spots. Ah the life!",
-        "timestamp":"2026-02-18"
+      "id": "11",
+      "title": "Cat Question",
+      "message": "I have a very important question: If we were both cats, do you think we'd still find each other? I
+  like to think we would, and I'll annoy you like Malako annoys Bandit and nap in sunny spots. Ah the life!",
+      "timestamp": "2026-02-18"
     },
     {
-        "id": "12",
-        "title": "Future Dreams",
-        "message":"Last night I had the most wonderful dream about our future. We were sitting on a porch swing, probably with some gray in our hair, watching the world go by. You were telling me a random story from our youth, and I was thinking about how perfect our life has been. About how we've been together for each other and how fun it has been to be by your side. But what made me smile the most was knowing that even after decades together, I'd still get butterflies when you smiled at me. Our future is going to be absolutely beautiful.",
-        "timestamp":"2026-02-18"
+      "id": "12",
+      "title": "Future Dreams",
+      "message": "Last night I had the most wonderful dream about our future. We were sitting on a porch swing, probably
+   with some gray in our hair, watching the world go by. You were telling me a random story from our youth, and I was
+  thinking about how perfect our life has been. About how we've been together for each other and how fun it has been to
+  be by your side. But what made me smile the most was knowing that even after decades together, I'd still get
+  butterflies when you smiled at me. Our future is going to be absolutely beautiful.",
+      "timestamp": "2026-02-18"
     },
     {
-        "id": "13",
-        "title": "Kangaroo Court"
-        "message":"BREAKING: In the most important legal case of the century, the Love Court has been in session for 47 consecutive hours deliberating your case. The charges: Grand theft of my heart, aggravated adorableness, and possession of an illegal smile that's too cute for public safety. The defense argues that you're innocent by reason of just being yourself. The prosecution (led by Chief Prosecutor Roo-bert Kangsley, Esq.) argues that your cuteness is a clear and present danger to my ability to function normally. After careful deliberation, the jury of 12 sleepy kittens has reached a verdict: GUILTY on all counts! Your sentence: Life imprisonment in my arms with possibility of parole... NEVER! Court adjourned!",
-        "timestamp":"2026-02-18"
+      "id": "13",
+      "title": "Kangaroo Court",
+      "message": "BREAKING: In the most important legal case of the century, the Love Court has been in session for 47
+  consecutive hours deliberating your case. The charges: Grand theft of my heart, aggravated adorableness, and
+  possession of an illegal smile that's too cute for public safety. The defense argues that you're innocent by reason of
+   just being yourself. The prosecution (led by Chief Prosecutor Roo-bert Kangsley, Esq.) argues that your cuteness is a
+   clear and present danger to my ability to function normally. After careful deliberation, the jury of 12 sleepy
+  kittens has reached a verdict: GUILTY on all counts! Your sentence: Life imprisonment in my arms with possibility of
+  parole... NEVER! Court adjourned!",
+      "timestamp": "2026-02-18"
     }
-    
   ]
