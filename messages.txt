@@ -107,11 +107,3 @@ id: 15
   category: encouragement
   ---
   I'm so ridiculously proud of you my love - not just for your achievements, but for who you are. Your determination, your heart, your spirit - you inspire me every single day! 
-  ===
-id: 16
-  title: Note test
-  date: 2026-02-18
-  category: encouragement
-  ---
- Test test
-  ===
