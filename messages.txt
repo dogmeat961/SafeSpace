@@ -101,3 +101,10 @@ id: 14
   ---
   Thank you for loving me on my bad days, celebrating my good days, and making all my days better my love. You make everything worth it and as you have been saying recently, "I love our family". 
   ===
+id: 15
+  title: So Proud of You
+  date: 2026-02-18
+  category: encouragement
+  ---
+  I'm so ridiculously proud of you my love - not just for your achievements, but for who you are. Your determination, your heart, your spirit - you inspire me every single day! 
+  ===
