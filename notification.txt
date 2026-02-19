@@ -1,10 +1,4 @@
- ===
-  id: 1
-  title: Good Morning! 
- time: 2026-02-19T08:30:00
-  ---
-  Hope you have a good day my love! 
- ===
+  ===
   id: 2
   title: Hey cutie!
   ---
